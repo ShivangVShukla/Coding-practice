@@ -1,0 +1,2 @@
+// Solved Leetcode Problem: Investments in 2016
+// Language: mysql
