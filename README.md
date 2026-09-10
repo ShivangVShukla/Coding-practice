@@ -18,19 +18,23 @@ All problems solved on different platforms
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0912-sort-an-array/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/ShivangVShukla/Coding-practice/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0912-sort-an-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0912-sort-an-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0912-sort-an-array/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -52,4 +56,8 @@ All problems solved on different platforms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/ShivangVShukla/Coding-practice/tree/main/1572-matrix-diagonal-sum/) | Easy |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
