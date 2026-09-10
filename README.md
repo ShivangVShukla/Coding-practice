@@ -19,6 +19,7 @@ All problems solved on different platforms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0912-sort-an-array/) | Medium |
+| [1572-matrix-diagonal-sum](https://github.com/ShivangVShukla/Coding-practice/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,4 +48,8 @@ All problems solved on different platforms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0912-sort-an-array/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1572-matrix-diagonal-sum](https://github.com/ShivangVShukla/Coding-practice/tree/main/1572-matrix-diagonal-sum/) | Easy |
 <!---LeetCode Topics End-->
