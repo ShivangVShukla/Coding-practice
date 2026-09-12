@@ -20,6 +20,7 @@ All problems solved on different platforms
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0912-sort-an-array/) | Medium |
+| [0994-rotting-oranges](https://github.com/ShivangVShukla/Coding-practice/tree/main/0994-rotting-oranges/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/ShivangVShukla/Coding-practice/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -55,9 +56,14 @@ All problems solved on different platforms
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0994-rotting-oranges](https://github.com/ShivangVShukla/Coding-practice/tree/main/0994-rotting-oranges/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/ShivangVShukla/Coding-practice/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0994-rotting-oranges](https://github.com/ShivangVShukla/Coding-practice/tree/main/0994-rotting-oranges/) | Medium |
 <!---LeetCode Topics End-->
