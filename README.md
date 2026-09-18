@@ -100,4 +100,12 @@ All problems solved on different platforms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/ShivangVShukla/Coding-practice/tree/main/0018-4sum/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/ShivangVShukla/Coding-practice/tree/main/0203-remove-linked-list-elements/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/ShivangVShukla/Coding-practice/tree/main/0203-remove-linked-list-elements/) | Easy |
 <!---LeetCode Topics End-->
