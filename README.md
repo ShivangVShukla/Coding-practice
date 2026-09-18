@@ -75,6 +75,7 @@ All problems solved on different platforms
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0367-valid-perfect-square](https://github.com/ShivangVShukla/Coding-practice/tree/main/0367-valid-perfect-square/) | Easy |
 | [0836-rectangle-overlap](https://github.com/ShivangVShukla/Coding-practice/tree/main/0836-rectangle-overlap/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
@@ -108,4 +109,8 @@ All problems solved on different platforms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/ShivangVShukla/Coding-practice/tree/main/0203-remove-linked-list-elements/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0367-valid-perfect-square](https://github.com/ShivangVShukla/Coding-practice/tree/main/0367-valid-perfect-square/) | Easy |
 <!---LeetCode Topics End-->
