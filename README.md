@@ -27,6 +27,7 @@ All problems solved on different platforms
 | [1089-duplicate-zeros](https://github.com/ShivangVShukla/Coding-practice/tree/main/1089-duplicate-zeros/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/ShivangVShukla/Coding-practice/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/ShivangVShukla/Coding-practice/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/ShivangVShukla/Coding-practice/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,6 +40,7 @@ All problems solved on different platforms
 | [0179-largest-number](https://github.com/ShivangVShukla/Coding-practice/tree/main/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0912-sort-an-array/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/ShivangVShukla/Coding-practice/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,4 +119,8 @@ All problems solved on different platforms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0367-valid-perfect-square](https://github.com/ShivangVShukla/Coding-practice/tree/main/0367-valid-perfect-square/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2784-check-if-array-is-good](https://github.com/ShivangVShukla/Coding-practice/tree/main/2784-check-if-array-is-good/) | Easy |
 <!---LeetCode Topics End-->
