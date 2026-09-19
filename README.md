@@ -24,6 +24,7 @@ All problems solved on different platforms
 | [0215-kth-largest-element-in-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0912-sort-an-array/) | Medium |
 | [0994-rotting-oranges](https://github.com/ShivangVShukla/Coding-practice/tree/main/0994-rotting-oranges/) | Medium |
+| [1089-duplicate-zeros](https://github.com/ShivangVShukla/Coding-practice/tree/main/1089-duplicate-zeros/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/ShivangVShukla/Coding-practice/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/ShivangVShukla/Coding-practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Divide and Conquer
@@ -101,6 +102,7 @@ All problems solved on different platforms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/ShivangVShukla/Coding-practice/tree/main/0018-4sum/) | Medium |
+| [1089-duplicate-zeros](https://github.com/ShivangVShukla/Coding-practice/tree/main/1089-duplicate-zeros/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
