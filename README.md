@@ -78,10 +78,12 @@ All problems solved on different platforms
 | ------- | ------- |
 | [0367-valid-perfect-square](https://github.com/ShivangVShukla/Coding-practice/tree/main/0367-valid-perfect-square/) | Easy |
 | [0836-rectangle-overlap](https://github.com/ShivangVShukla/Coding-practice/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ShivangVShukla/Coding-practice/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/ShivangVShukla/Coding-practice/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ShivangVShukla/Coding-practice/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
