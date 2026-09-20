@@ -26,6 +26,7 @@ All problems solved on different platforms
 | [0912-sort-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0912-sort-an-array/) | Medium |
 | [0994-rotting-oranges](https://github.com/ShivangVShukla/Coding-practice/tree/main/0994-rotting-oranges/) | Medium |
 | [1089-duplicate-zeros](https://github.com/ShivangVShukla/Coding-practice/tree/main/1089-duplicate-zeros/) | Easy |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/ShivangVShukla/Coding-practice/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/ShivangVShukla/Coding-practice/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/ShivangVShukla/Coding-practice/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -43,6 +44,7 @@ All problems solved on different platforms
 | [0179-largest-number](https://github.com/ShivangVShukla/Coding-practice/tree/main/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0912-sort-an-array/) | Medium |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/ShivangVShukla/Coding-practice/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -111,6 +113,7 @@ All problems solved on different platforms
 | ------- | ------- |
 | [0018-4sum](https://github.com/ShivangVShukla/Coding-practice/tree/main/0018-4sum/) | Medium |
 | [1089-duplicate-zeros](https://github.com/ShivangVShukla/Coding-practice/tree/main/1089-duplicate-zeros/) | Easy |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
