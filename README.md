@@ -66,6 +66,7 @@ All problems solved on different platforms
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0383-ransom-note](https://github.com/ShivangVShukla/Coding-practice/tree/main/0383-ransom-note/) | Easy |
 | [0912-sort-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0912-sort-an-array/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -95,6 +96,7 @@ All problems solved on different platforms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0179-largest-number](https://github.com/ShivangVShukla/Coding-practice/tree/main/0179-largest-number/) | Medium |
+| [0383-ransom-note](https://github.com/ShivangVShukla/Coding-practice/tree/main/0383-ransom-note/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ShivangVShukla/Coding-practice/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -130,6 +132,7 @@ All problems solved on different platforms
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0383-ransom-note](https://github.com/ShivangVShukla/Coding-practice/tree/main/0383-ransom-note/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/ShivangVShukla/Coding-practice/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ShivangVShukla/Coding-practice/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Brainteaser
