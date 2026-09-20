@@ -93,6 +93,7 @@ All problems solved on different platforms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0179-largest-number](https://github.com/ShivangVShukla/Coding-practice/tree/main/0179-largest-number/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/ShivangVShukla/Coding-practice/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,4 +137,5 @@ All problems solved on different platforms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/ShivangVShukla/Coding-practice/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/ShivangVShukla/Coding-practice/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 <!---LeetCode Topics End-->
