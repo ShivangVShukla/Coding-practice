@@ -30,6 +30,7 @@ All problems solved on different platforms
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/ShivangVShukla/Coding-practice/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/ShivangVShukla/Coding-practice/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/ShivangVShukla/Coding-practice/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [2761-prime-pairs-with-target-sum](https://github.com/ShivangVShukla/Coding-practice/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/ShivangVShukla/Coding-practice/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ShivangVShukla/Coding-practice/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Divide and Conquer
@@ -87,6 +88,7 @@ All problems solved on different platforms
 | [0367-valid-perfect-square](https://github.com/ShivangVShukla/Coding-practice/tree/main/0367-valid-perfect-square/) | Easy |
 | [0836-rectangle-overlap](https://github.com/ShivangVShukla/Coding-practice/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ShivangVShukla/Coding-practice/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+| [2761-prime-pairs-with-target-sum](https://github.com/ShivangVShukla/Coding-practice/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,4 +146,12 @@ All problems solved on different platforms
 | ------- | ------- |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/ShivangVShukla/Coding-practice/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/ShivangVShukla/Coding-practice/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2761-prime-pairs-with-target-sum](https://github.com/ShivangVShukla/Coding-practice/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2761-prime-pairs-with-target-sum](https://github.com/ShivangVShukla/Coding-practice/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 <!---LeetCode Topics End-->
