@@ -2,12 +2,12 @@ class Solution {
     public List<List<Integer>> findPrimePairs(int n) {
         List<List<Integer>> list = new ArrayList<>();
         for(int i=2;i<=n/2;i++){
-            List<Integer> temp =new ArrayList<>();
             if(isPrime(i) && isPrime(n-i)){
+                List<Integer> temp =new ArrayList<>();
                 temp.add(i);
                 temp.add(n-i);
+                if(!temp.isEmpty()) list.add(temp);
             }
-            if(!temp.isEmpty()) list.add(temp);
         }
         return list;
     }
