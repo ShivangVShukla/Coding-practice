@@ -24,6 +24,7 @@ All problems solved on different platforms
 | [0198-house-robber](https://github.com/ShivangVShukla/Coding-practice/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/ShivangVShukla/Coding-practice/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0912-sort-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0912-sort-an-array/) | Medium |
 | [0994-rotting-oranges](https://github.com/ShivangVShukla/Coding-practice/tree/main/0994-rotting-oranges/) | Medium |
@@ -137,6 +138,7 @@ All problems solved on different platforms
 | ------- | ------- |
 | [0367-valid-perfect-square](https://github.com/ShivangVShukla/Coding-practice/tree/main/0367-valid-perfect-square/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/ShivangVShukla/Coding-practice/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
