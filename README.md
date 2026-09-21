@@ -23,6 +23,7 @@ All problems solved on different platforms
 | [0179-largest-number](https://github.com/ShivangVShukla/Coding-practice/tree/main/0179-largest-number/) | Medium |
 | [0198-house-robber](https://github.com/ShivangVShukla/Coding-practice/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/ShivangVShukla/Coding-practice/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/ShivangVShukla/Coding-practice/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -118,6 +119,7 @@ All problems solved on different platforms
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/ShivangVShukla/Coding-practice/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/ShivangVShukla/Coding-practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/ShivangVShukla/Coding-practice/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Two Pointers
@@ -174,4 +176,8 @@ All problems solved on different platforms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3123-find-edges-in-shortest-paths](https://github.com/ShivangVShukla/Coding-practice/tree/main/3123-find-edges-in-shortest-paths/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/ShivangVShukla/Coding-practice/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
