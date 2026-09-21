@@ -11,6 +11,7 @@ All problems solved on different platforms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ShivangVShukla/Coding-practice/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3123-find-edges-in-shortest-paths](https://github.com/ShivangVShukla/Coding-practice/tree/main/3123-find-edges-in-shortest-paths/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@ All problems solved on different platforms
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0912-sort-an-array/) | Medium |
+| [3123-find-edges-in-shortest-paths](https://github.com/ShivangVShukla/Coding-practice/tree/main/3123-find-edges-in-shortest-paths/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,6 +84,7 @@ All problems solved on different platforms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0994-rotting-oranges](https://github.com/ShivangVShukla/Coding-practice/tree/main/0994-rotting-oranges/) | Medium |
+| [3123-find-edges-in-shortest-paths](https://github.com/ShivangVShukla/Coding-practice/tree/main/3123-find-edges-in-shortest-paths/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -154,4 +157,12 @@ All problems solved on different platforms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2761-prime-pairs-with-target-sum](https://github.com/ShivangVShukla/Coding-practice/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3123-find-edges-in-shortest-paths](https://github.com/ShivangVShukla/Coding-practice/tree/main/3123-find-edges-in-shortest-paths/) | Hard |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3123-find-edges-in-shortest-paths](https://github.com/ShivangVShukla/Coding-practice/tree/main/3123-find-edges-in-shortest-paths/) | Hard |
 <!---LeetCode Topics End-->
