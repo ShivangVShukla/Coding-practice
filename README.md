@@ -26,6 +26,7 @@ All problems solved on different platforms
 | [0215-kth-largest-element-in-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/ShivangVShukla/Coding-practice/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/ShivangVShukla/Coding-practice/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/ShivangVShukla/Coding-practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/ShivangVShukla/Coding-practice/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -97,6 +98,7 @@ All problems solved on different platforms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0367-valid-perfect-square](https://github.com/ShivangVShukla/Coding-practice/tree/main/0367-valid-perfect-square/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/ShivangVShukla/Coding-practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0836-rectangle-overlap](https://github.com/ShivangVShukla/Coding-practice/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ShivangVShukla/Coding-practice/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [2761-prime-pairs-with-target-sum](https://github.com/ShivangVShukla/Coding-practice/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
@@ -125,6 +127,7 @@ All problems solved on different platforms
 | [0209-minimum-size-subarray-sum](https://github.com/ShivangVShukla/Coding-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/ShivangVShukla/Coding-practice/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/ShivangVShukla/Coding-practice/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/ShivangVShukla/Coding-practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/ShivangVShukla/Coding-practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/ShivangVShukla/Coding-practice/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Two Pointers
@@ -154,6 +157,7 @@ All problems solved on different platforms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/ShivangVShukla/Coding-practice/tree/main/0383-ransom-note/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/ShivangVShukla/Coding-practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/ShivangVShukla/Coding-practice/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ShivangVShukla/Coding-practice/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -191,4 +195,8 @@ All problems solved on different platforms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ShivangVShukla/Coding-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/ShivangVShukla/Coding-practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
