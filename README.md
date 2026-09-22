@@ -22,6 +22,7 @@ All problems solved on different platforms
 | [0018-4sum](https://github.com/ShivangVShukla/Coding-practice/tree/main/0018-4sum/) | Medium |
 | [0179-largest-number](https://github.com/ShivangVShukla/Coding-practice/tree/main/0179-largest-number/) | Medium |
 | [0198-house-robber](https://github.com/ShivangVShukla/Coding-practice/tree/main/0198-house-robber/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/ShivangVShukla/Coding-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/ShivangVShukla/Coding-practice/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/ShivangVShukla/Coding-practice/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
@@ -121,6 +122,7 @@ All problems solved on different platforms
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ShivangVShukla/Coding-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/ShivangVShukla/Coding-practice/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/ShivangVShukla/Coding-practice/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/ShivangVShukla/Coding-practice/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -143,6 +145,7 @@ All problems solved on different platforms
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ShivangVShukla/Coding-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0367-valid-perfect-square](https://github.com/ShivangVShukla/Coding-practice/tree/main/0367-valid-perfect-square/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -184,4 +187,8 @@ All problems solved on different platforms
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ShivangVShukla/Coding-practice/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/ShivangVShukla/Coding-practice/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ShivangVShukla/Coding-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
