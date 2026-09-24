@@ -42,6 +42,7 @@ All problems solved on different platforms
 | [2574-left-and-right-sum-differences](https://github.com/ShivangVShukla/Coding-practice/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/ShivangVShukla/Coding-practice/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/ShivangVShukla/Coding-practice/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ShivangVShukla/Coding-practice/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ShivangVShukla/Coding-practice/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -105,6 +106,7 @@ All problems solved on different platforms
 | [0836-rectangle-overlap](https://github.com/ShivangVShukla/Coding-practice/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ShivangVShukla/Coding-practice/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [2761-prime-pairs-with-target-sum](https://github.com/ShivangVShukla/Coding-practice/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ShivangVShukla/Coding-practice/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
