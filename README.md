@@ -30,6 +30,7 @@ All problems solved on different platforms
 | [0525-contiguous-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0525-contiguous-array/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/ShivangVShukla/Coding-practice/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/ShivangVShukla/Coding-practice/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0912-sort-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0912-sort-an-array/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/ShivangVShukla/Coding-practice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -134,6 +135,7 @@ All problems solved on different platforms
 | [0304-range-sum-query-2d-immutable](https://github.com/ShivangVShukla/Coding-practice/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/ShivangVShukla/Coding-practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0525-contiguous-array/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/ShivangVShukla/Coding-practice/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/ShivangVShukla/Coding-practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/ShivangVShukla/Coding-practice/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Two Pointers
@@ -158,6 +160,7 @@ All problems solved on different platforms
 | [0367-valid-perfect-square](https://github.com/ShivangVShukla/Coding-practice/tree/main/0367-valid-perfect-square/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/ShivangVShukla/Coding-practice/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/ShivangVShukla/Coding-practice/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -203,6 +206,7 @@ All problems solved on different platforms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ShivangVShukla/Coding-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/ShivangVShukla/Coding-practice/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/ShivangVShukla/Coding-practice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
