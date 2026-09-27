@@ -37,6 +37,7 @@ All problems solved on different platforms
 | [0992-subarrays-with-k-different-integers](https://github.com/ShivangVShukla/Coding-practice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0994-rotting-oranges](https://github.com/ShivangVShukla/Coding-practice/tree/main/0994-rotting-oranges/) | Medium |
 | [1089-duplicate-zeros](https://github.com/ShivangVShukla/Coding-practice/tree/main/1089-duplicate-zeros/) | Easy |
+| [1222-queens-that-can-attack-the-king](https://github.com/ShivangVShukla/Coding-practice/tree/main/1222-queens-that-can-attack-the-king/) | Medium |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/ShivangVShukla/Coding-practice/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/ShivangVShukla/Coding-practice/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -90,6 +91,7 @@ All problems solved on different platforms
 | ------- | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/ShivangVShukla/Coding-practice/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0994-rotting-oranges](https://github.com/ShivangVShukla/Coding-practice/tree/main/0994-rotting-oranges/) | Medium |
+| [1222-queens-that-can-attack-the-king](https://github.com/ShivangVShukla/Coding-practice/tree/main/1222-queens-that-can-attack-the-king/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/ShivangVShukla/Coding-practice/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -182,6 +184,7 @@ All problems solved on different platforms
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1222-queens-that-can-attack-the-king](https://github.com/ShivangVShukla/Coding-practice/tree/main/1222-queens-that-can-attack-the-king/) | Medium |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/ShivangVShukla/Coding-practice/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/ShivangVShukla/Coding-practice/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Enumeration
