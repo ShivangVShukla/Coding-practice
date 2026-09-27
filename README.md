@@ -33,6 +33,7 @@ All problems solved on different platforms
 | [0713-subarray-product-less-than-k](https://github.com/ShivangVShukla/Coding-practice/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/ShivangVShukla/Coding-practice/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0912-sort-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0912-sort-an-array/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ShivangVShukla/Coding-practice/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/ShivangVShukla/Coding-practice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0994-rotting-oranges](https://github.com/ShivangVShukla/Coding-practice/tree/main/0994-rotting-oranges/) | Medium |
 | [1089-duplicate-zeros](https://github.com/ShivangVShukla/Coding-practice/tree/main/1089-duplicate-zeros/) | Easy |
@@ -136,6 +137,7 @@ All problems solved on different platforms
 | [0523-continuous-subarray-sum](https://github.com/ShivangVShukla/Coding-practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0525-contiguous-array/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/ShivangVShukla/Coding-practice/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ShivangVShukla/Coding-practice/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/ShivangVShukla/Coding-practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/ShivangVShukla/Coding-practice/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Two Pointers
@@ -169,6 +171,7 @@ All problems solved on different platforms
 | [0523-continuous-subarray-sum](https://github.com/ShivangVShukla/Coding-practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0525-contiguous-array/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ShivangVShukla/Coding-practice/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ShivangVShukla/Coding-practice/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/ShivangVShukla/Coding-practice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/ShivangVShukla/Coding-practice/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ShivangVShukla/Coding-practice/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
