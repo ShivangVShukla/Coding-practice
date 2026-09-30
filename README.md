@@ -121,6 +121,7 @@ All problems solved on different platforms
 | ------- | ------- |
 | [0179-largest-number](https://github.com/ShivangVShukla/Coding-practice/tree/main/0179-largest-number/) | Medium |
 | [0383-ransom-note](https://github.com/ShivangVShukla/Coding-practice/tree/main/0383-ransom-note/) | Easy |
+| [3136-valid-word](https://github.com/ShivangVShukla/Coding-practice/tree/main/3136-valid-word/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ShivangVShukla/Coding-practice/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
