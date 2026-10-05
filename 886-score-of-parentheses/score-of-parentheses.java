@@ -1,0 +1,21 @@
+class Solution {
+    public int scoreOfParentheses(String s) {
+        Stack<Integer> stack = new Stack<>();
+        stack.push(0);
+        for (char ch : s.toCharArray()) {
+            if (ch == '(') {
+                stack.push(0);
+            } else {
+                int x = stack.pop();
+                int score;
+                if (x == 0) {
+                    score = 1;
+                } else {
+                    score = 2 * x;
+                }
+                stack.push(stack.pop() + score);
+            }
+        }
+        return stack.pop();
+    }
+}
